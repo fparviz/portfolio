@@ -1,0 +1,6 @@
+Resources Utlized for Project 1:
+
+1. Udacity online course "Introduction to HTML/CSS"
+2. Bootstrap CSS documentation http://getbootstrap.com/css/
+3. HTML Documentation: http://www.w3schools.com/htmL/
+4. Udacity Piazza for Project 1 for course "Introduction to HTML/CSS"
